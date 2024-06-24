@@ -3,7 +3,7 @@
 
 Mid-level Fullstack Software Engineer at Nuvemshop.
 
-Passionate about technology, development and helping people develop with technology.
+Passionate about technology, development and helping people develop through technology.
 
 Currently developing with Javascript (Node.js, NestJS, React, Next.js).
 
