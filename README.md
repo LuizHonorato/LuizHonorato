@@ -3,7 +3,7 @@
 
 Mid-level Fullstack Software Engineer at Nuvemshop.
 
-Passionate about technology, development and helping people develop.
+Passionate about technology, development and helping people develop with technology.
 
 Currently developing with Javascript (Node.js, NestJS, React, Next.js).
 
@@ -33,3 +33,5 @@ Currently developing with Javascript (Node.js, NestJS, React, Next.js).
   <img align="center" alt="mongodb" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img align="center" alt="mongodb" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
 </div><br/>
+
+<i>The joy we get from thinking and learning makes us think and learn even more. - Aristóteles</i>
