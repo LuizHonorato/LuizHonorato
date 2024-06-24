@@ -1,6 +1,12 @@
 
 ## Hi! I'm Luiz Honorato 👋🏾
 
+Mid-level Fullstack Software Engineer at Nuvemshop.
+
+Passionate about technology, development and helping people develop.
+
+Currently developing with Javascript (Node.js, NestJS, React, Next.js).
+
 [![Blog](https://img.shields.io/website?label=luizhonorato.dev&style=for-the-badge&url=https://luizhonorato.dev/)](https://luizhonorato.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-honorato)
 
