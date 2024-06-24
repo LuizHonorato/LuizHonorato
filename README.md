@@ -1,6 +1,4 @@
-## Hi! 👋🏾
-
-![hello](https://github.com/LuizHonorato/LuizHonorato/assets/27831080/70610f77-bc10-448d-adef-97ad44e1bcb6)
+## Hi! I'm Luiz Honorato 👋🏾
 
 Mid-level Fullstack Software Engineer at Nuvemshop.
 
